@@ -1,0 +1,25 @@
+.title_screen
+{
+    text-align: center;
+    color: aliceblue;
+
+    margin: 30px;
+}
+
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.card-style
+{
+    margin: 20px;
+}
